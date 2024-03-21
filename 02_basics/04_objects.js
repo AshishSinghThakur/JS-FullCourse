@@ -54,3 +54,14 @@ const db_users=[
 // console.log(Object.values(tinderUser));
 // console.log(Object.entries(tinderUser));
 //console.log(tinderUser.hasOwnProperty("name"));
+
+const course = {
+    courseName:"Javascript learning",
+    fee: 999,
+    teacher:"Ashish"
+}
+
+// const {teacher}=course
+// console.log(teacher);
+// const {teacher:t}=course
+// console.log(t);
